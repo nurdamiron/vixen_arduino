@@ -12,7 +12,7 @@
     Vcc    ->   3.3V
     CE     ->   A1
     CSN    ->   A0
-    CLK    ->   D13
+    SCK    ->   D13
     MOSI   ->   D11
     MISO   ->   D12
 */
