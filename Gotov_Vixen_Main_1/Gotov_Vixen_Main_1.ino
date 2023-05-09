@@ -9,10 +9,10 @@
     NRF24 Pins
     
     GND    ->   GND
-    Vcc    ->   3.3V
+    VCC    ->   3.3V
     CE     ->   D9
     CSN    ->   D10
-    CLK    ->   D13
+    SCK    ->   D13
     MOSI   ->   D11
     MISO   ->   D12
 */
@@ -54,7 +54,7 @@ Data_to_be_sent sent_data;
 
 #include <SoftwareSerial.h>
 
-SoftwareSerial mySerial(2, 3 );
+SoftwareSerial mySerial(2, 3);
 
 
 void setup(){
