@@ -1,9 +1,4 @@
-/* Receiver code for the Arduino VIXEN Wireless lights controls
 
-   If you have any issues with this code or suggestions please feel free to contact me.
-                          Jody Payne
-                   Knucklebuster620@live.com
- 
  * Install the NRF24 library to your IDE
 
     NRF24 Pins
