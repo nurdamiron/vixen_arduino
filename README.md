@@ -36,3 +36,4 @@ Troubleshooting cases
 4. Даем название для группы, например Group-1
  ![image](https://github.com/nurdamiron/vixen_arduino/assets/70795559/70f846f8-81d5-48a3-8f89-16434fdff7f2)
 
+5. 
